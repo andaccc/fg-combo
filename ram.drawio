@@ -134,6 +134,9 @@
         <mxCell id="pl4i7bAe3jARjl3dDdz_-24" value="&lt;font color=&quot;#ff7a7a&quot; style=&quot;font-size: 25px;&quot;&gt;HS&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontColor=#0DA612;" vertex="1" parent="1">
           <mxGeometry x="590" y="509" width="50" height="51" as="geometry" />
         </mxCell>
+        <mxCell id="pl4i7bAe3jARjl3dDdz_-31" value="Jump" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="20" y="920" width="130" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
